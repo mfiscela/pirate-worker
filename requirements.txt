@@ -7,3 +7,4 @@ xformers==0.0.23.post1
 safetensors==0.4.2
 omegaconf==2.3.0
 invisible-watermark>=0.2.0
+requests==2.31.0
